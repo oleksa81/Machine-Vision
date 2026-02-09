@@ -1,6 +1,6 @@
 # Machine-Vision
 
-*This repository includes assignment from the course*
+*This repository includes assignments from the Machine Vision course*
 
 This course introduces concepts and techniques in machine vision. It covers a variety of
 image processing techniques for the design and analysis of efficient algorithms for real-
